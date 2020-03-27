@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyTest" tests="1" skipped="1" failures="0" errors="0" timestamp="2020-03-27T08:27:53" hostname="DESKTOP-CNSTN20" time="72.936">
+  <properties/>
+  <testcase name="firstTest" classname="MyTest" time="72.936">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
