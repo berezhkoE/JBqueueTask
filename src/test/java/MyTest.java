@@ -8,7 +8,7 @@ public class MyTest {
     private final CarriagesTree tree = new CarriagesTree();
 
     @Test
-    public void firstTest() {
+    public void MyTest() {
         List<Carriage> carriageList = new ArrayList<>();
         carriageList.add(new Carriage(1, 1, 2, 2));
         carriageList.add(new Carriage(2, 1, 4, 6));

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4311b81-c009-4eb5-bb73-aa704fcfce12" name="Default Changelist" comment="" />
+    <list default="true" id="e4311b81-c009-4eb5-bb73-aa704fcfce12" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Carriage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Carriage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MyTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZfSiMgpjBrwb5t3zjgRCH8G9Xp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,13 +39,33 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Gradle.MyTest.firstTest">
+  <component name="RunManager" selected="Gradle.MyTest.MyTest">
     <configuration name="LoaderProfitMaximizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LoaderProfitMaximizer" />
       <module name="JBqueueTask.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="MyTest.MyTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;MyTest.MyTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="MyTest.firstTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -61,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MyTest.MyTest" />
         <item itemvalue="Gradle.MyTest.firstTest" />
         <item itemvalue="Application.LoaderProfitMaximizer" />
       </list>
@@ -108,38 +137,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585237602910" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1585297746043">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1585896972571">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585297746043" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1585297746043">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585896972571" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1585896972571">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585297746043" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1585297746043">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585896972571" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1585896972571">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585297746043" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1585297746043">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585896972571" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1585896972571">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585297746043" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1585297746043">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585896972571" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1585896972561">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585297746043" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1585297746043">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585896972561" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1585896972561">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585297746043" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1585297746043">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585896972561" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1585896972561">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585297746043" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1585297746043">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585896972561" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1585896972561">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585297746043" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585896972561" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1585896941492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585896941492" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

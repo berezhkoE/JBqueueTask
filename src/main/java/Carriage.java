@@ -59,12 +59,7 @@ public class Carriage implements Comparable<Carriage> {
     // compares by the time of arrival
     @Override
     public int compareTo(Carriage o) {
-        if (this.arrivalTime < o.arrivalTime)
-            return -1;
-        if (this.arrivalTime > o.arrivalTime)
-            return 1;
-        else
-            return 0;
+        return this.arrivalTime.compareTo(o.arrivalTime);
     }
 
 }
